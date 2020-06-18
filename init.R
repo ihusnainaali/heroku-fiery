@@ -1,6 +1,0 @@
-install.packages('shiny')
-install.packages('rvest')
-install.packages('stats')
-install.packages('jsonlite')
-install.packages('dplyr')
-install.packages('shinycssloaders')
